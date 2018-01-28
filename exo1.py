@@ -1,5 +1,6 @@
 from math import *
 
+<<<<<<< HEAD
 def rp(x,p):
     num = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
     E = int(x)
@@ -27,3 +28,6 @@ def rp(x,p):
 
 print(rp(152.06,3))
 
+=======
+print("Hello world!")
+>>>>>>> 4b6425810c7619a18dc54b2a942cdb6d167913b4
