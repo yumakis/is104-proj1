@@ -43,5 +43,5 @@ def rp(x,p):
         return res
     return 0
 
-print(rp(0.00015252,3))
+print(rp(0.00015252,1))
 
